@@ -1,6 +1,6 @@
 ### I am Utsa Chandra Sutradhar 🌚
 
-- I’m currently working on Drive Shikhi App 🏌️‍♀️
+- I’m currently working on Drive Shikhi App 
 - 💬 Ask me about Flutter Mobile App Development 
 - 📫 How to reach me: utsacsd99@gmail.com
 - ⚡ Fun fact: Null== 0 (:
