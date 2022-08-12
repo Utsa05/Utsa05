@@ -1,5 +1,5 @@
 ### I am Utsa Chandra Sutradhar 😁
-https://miro.medium.com/max/700/0*dtBtJppM7mqZVtzQ.gif
+<img src="https://miro.medium.com/max/700/0*dtBtJppM7mqZVtzQ.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/utsa.sutradhar.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsa-chandra-sutradhar-1aa077201) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14419599/utsa-chandra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/CodeGuy) 
