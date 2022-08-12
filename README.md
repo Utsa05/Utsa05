@@ -1,11 +1,5 @@
 ### I am Utsa Chandra Sutradhar 😁
 
-- I’m currently working on Drive Shikhi App 
-- 💬 Ask me about Flutter Mobile App Development and Node JS
-- 📫 How to reach me: utsacsd99@gmail.com
-- ⚡ Fun fact: Null== 0 (:
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/utsa.sutradhar.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsa-chandra-sutradhar-1aa077201) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14419599/utsa-chandra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Utsa Chandra Sutradhar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/CodeGuy) 
 
