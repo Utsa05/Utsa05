@@ -1,4 +1,4 @@
-### I am Utsa Chandra Sutradhar 😁
+### Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I am Utsa 
 ![0_dtBtJppM7mqZVtzQ](https://user-images.githubusercontent.com/71923060/184312357-75e8fd1d-3130-44b1-b2d4-b76c3bd7fbea.gif)
 
 
