@@ -2,8 +2,7 @@
 ## 😎 About:
 😄 Pronouns: He/His.  <br />
 🔭 I’m currently building Frontier.<br />
-🌱 I’m currently learning more about MERN Developement.<br />
-🤔 I’m looking for help with VelocityX documentation.<br />
+🌱 I’m currently learning more about MERN Stack Web Developement.<br />
 💬 Ask me about Flutter or any tech-related stuff.<br />
 📫 How to reach me: Check social links below.<br />
 ⚡ Fun fact: I Like Me 😁
