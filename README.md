@@ -1,7 +1,12 @@
 ### Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I am Utsa 
-![0_dtBtJppM7mqZVtzQ](https://user-images.githubusercontent.com/71923060/184312357-75e8fd1d-3130-44b1-b2d4-b76c3bd7fbea.gif)
-
-
+## 😎 About:
+😄 Pronouns: He/His
+🔭 I’m currently building Frontier.
+🌱 I’m currently learning more about MERN Developement.
+🤔 I’m looking for help with VelocityX documentation.
+💬 Ask me about Flutter or any tech-related stuff.
+📫 How to reach me: Check social links below.
+⚡ Fun fact: I Like Me 😁
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/utsa.sutradhar.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsa-chandra-sutradhar-1aa077201) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14419599/utsa-chandra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/CodeGuy) 
@@ -15,5 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsa05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+![0_dtBtJppM7mqZVtzQ](https://user-images.githubusercontent.com/71923060/184312357-75e8fd1d-3130-44b1-b2d4-b76c3bd7fbea.gif)
 [![](https://visitcount.itsvg.in/api?id=utsa05&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Utsa Chandra Sutradhar)-->
