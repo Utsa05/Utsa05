@@ -1,6 +1,6 @@
 ### Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I am Utsa 
 ## 😎 About:
-😄 Pronouns: He/His\n
+😄 Pronouns: He/His a <br />
 🔭 I’m currently building Frontier.
 🌱 I’m currently learning more about MERN Developement.
 🤔 I’m looking for help with VelocityX documentation.
