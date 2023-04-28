@@ -1,4 +1,6 @@
-<a href="https://ibb.co/yyDVwPN"><img src="https://i.ibb.co/k8pMRBG/mybanner.png" alt="mybanner" border="0"></a><br>
+
+![Black and Red Gradient Professional LinkedIn Banner](https://user-images.githubusercontent.com/71923060/235194331-71472b36-916f-422e-84eb-c07ee63be89b.png)
+
 Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I am Utsa 
 ## 😎 About:
 😄 Pronouns: He/His.  <br />
